@@ -1,4 +1,3 @@
-__author__ = 'student'
 from datetime import datetime, timedelta
 from sqlalchemy.orm import relationship
 from sqlalchemy.schema import Column, ForeignKey
